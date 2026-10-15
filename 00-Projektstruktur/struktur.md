@@ -18,3 +18,5 @@ Wir testen GitHub als Plattform für eine strukturierte Wissenssammlung zur Vera
 
 ## Status
 Phase 1: Aufbau und Erprobung der Struktur.
+- test der Bearbeitung
+  
